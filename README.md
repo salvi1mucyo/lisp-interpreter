@@ -1,8 +1,8 @@
-# 🌀 Scheme Interpreter
+# Scheme Interpreter
 
 A lightweight interpreter for the Scheme programming language, built in Python. It supports many core features of Scheme, including conditionals, lists, recursion, variable bindings, and functional programming utilities. I implemented this as a lab assignment in the MIT 6.101 course.
 
-## ✅ Supported Features
+## Supported Features
 
 This interpreter supports:
 
@@ -23,7 +23,7 @@ This interpreter supports:
     - `set!` – Reassign existing variables.
     - `del` – Delete variable bindings.
 
-## ▶️ Running
+## Running
 
 1. Download this repository with `git clone https://github.com/salvi1mucyo/lisp-interpreter.git`
 2. Launch the interpreter:
